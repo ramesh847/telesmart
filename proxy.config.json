@@ -1,0 +1,16 @@
+{
+    "/newcrmapi": {
+
+           "target": "https://uatcrmapp.cityunionbank.in:8084",
+
+           "secure": false
+    },
+    "/UVR": {
+
+        "target": "https://uatcrmapp.cityunionbank.in:8086",
+
+        "secure": false
+ }
+   
+    
+}
